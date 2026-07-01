@@ -2,6 +2,8 @@
 
 Lab-report companion repo for arXiv:2606.25011, **Fast and Parallel High-Rate STAR Architecture for Megaquop Quantum Simulation**.
 
+<a href="https://x.com/dan_hawkley/status/2072337720689754425">Tweet</a>
+
 <img src="2606-25011.png" />
 
 The leading specification is encoding rate: high-rate QEC changes the physical-qubit budget, STAR injection parallelism, and practical runtime for early fault-tolerant quantum simulation.
